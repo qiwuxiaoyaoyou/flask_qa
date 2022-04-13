@@ -1,0 +1,9 @@
+#IDEA
+.idea/
+__pycache__/
+
+#txt
+txt.md
+
+#config
+config.py
